@@ -4,10 +4,13 @@ Prototype implementation of a keyword labeler used to perform the user study in 
 
 ```
 Text Classification with Limited Training Data
-Petr Laitoch, RNDr. Jiří Hana, Ph.D.
+Author: Petr Laitoch
+Advisor: RNDr. Jiří Hana, Ph.D.
 Charles University
 2021
 ```
+
+An updated text of the thesis is available in `./thesis.pdf`.
 
 User instructions are present in the appendix of the thesis.
 
